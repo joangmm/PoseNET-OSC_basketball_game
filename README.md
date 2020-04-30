@@ -6,5 +6,5 @@ For the practica 3, I did a mini basketball game. Your objetive is to move yours
 
 Every time you do one of this actions correctly, a message will be displayed!
 
-Enjoy!!!
+Enjoy!!
 J.
